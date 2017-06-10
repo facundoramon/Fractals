@@ -1,2 +1,2 @@
 # Fractals
-Processing Sketchs for drawing fractals
+Processing Sketches for drawing fractals
